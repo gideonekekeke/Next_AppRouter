@@ -1,0 +1,7 @@
+{
+	"semi": true,
+	"signleQuote": false,
+	"tabWidth": 2,
+	"useTabs": false,
+	"plugins": ["prettier-plugin-tailwind"]
+}
